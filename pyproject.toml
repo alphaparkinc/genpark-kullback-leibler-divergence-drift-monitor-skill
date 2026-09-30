@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-kullback-leibler-divergence-drift-monitor-skill"
+version = "1.0.0"
+description = "Forward and reverse KL divergence monitor detecting policy drift and reward hacking across distributions"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
