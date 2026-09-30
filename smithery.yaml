@@ -1,0 +1,6 @@
+name: genpark-kullback-leibler-divergence-drift-monitor-skill
+version: 1.0.0
+description: Forward and reverse KL divergence monitor detecting policy drift and reward hacking across distributions
+command: python
+args:
+  - mcp_server.py
