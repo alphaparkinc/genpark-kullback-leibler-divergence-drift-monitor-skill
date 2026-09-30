@@ -1,0 +1,20 @@
+{
+  "name": "genpark-kullback-leibler-divergence-drift-monitor-skill",
+  "version": "1.0.0",
+  "description": "Forward and reverse KL divergence monitor detecting policy drift and reward hacking across distributions",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "kl-divergence",
+    "policy-drift",
+    "reward-hacking",
+    "rlhf",
+    "probability-metrics",
+    "python-standard-library",
+    "agent-skills",
+    "telemetry",
+    "monitoring",
+    "developer-tools"
+  ]
+}
